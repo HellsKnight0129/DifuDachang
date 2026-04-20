@@ -3,7 +3,7 @@
 > 包月无限 · 不限 token · 不限次数 · 一张令牌通达百模
 
 <p align="center">
-  <img src="../frontend/public/logo.png" alt="地府接引司" width="140" />
+  <img src="./images/logo.png" alt="地府接引司" width="140" />
 </p>
 
 <p align="center">

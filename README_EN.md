@@ -3,7 +3,7 @@
 > **Flat monthly fee · Unlimited tokens · Unlimited calls** · One key, every model
 
 <p align="center">
-  <img src="../frontend/public/logo.png" alt="Netherworld Gate" width="140" />
+  <img src="./images/logo.png" alt="Netherworld Gate" width="140" />
 </p>
 
 <p align="center">
